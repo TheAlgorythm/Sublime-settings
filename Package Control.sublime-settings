@@ -23,6 +23,6 @@
 		"SublimeLinter",
 		"SublimeLinter-contrib-mypy",
 		"SublimeLinter-flake8",
-		"SublimeLinter-php",
+		"SublimeLinter-php"
 	]
 }
