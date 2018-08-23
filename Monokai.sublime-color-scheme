@@ -1,0 +1,11 @@
+{
+    "name": "Monokai",
+    "variables":
+    {
+        "black3": "#252525"
+    },
+    "globals":
+    {
+        "background": "var(black3)"
+    }
+}
