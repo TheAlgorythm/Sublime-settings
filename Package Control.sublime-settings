@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AlignTab",
+		"Anaconda",
+		"AutoFileName",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"Color Highlight",
+		"ColorPicker",
+		"Git",
+		"GitGutter",
+		"Package Control",
+		"PackageResourceViewer",
+		"Python Debugger",
+		"SideBarEnhancements",
+		"SidebarHoverToggle",
+		"SublimeLinter",
+		"SublimeLinter-contrib-mypy",
+		"SublimeLinter-flake8",
+		"SublimeLinter-php",
+	]
+}
