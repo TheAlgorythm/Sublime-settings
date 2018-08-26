@@ -35,7 +35,7 @@
 	"tab_size": 4,
 	"theme": "Boxy Tomorrow.sublime-theme",
 	"theme_bar": true,
-	"theme_tab_selected_overlined": false,
+	"theme_tab_selected_overlined": true,
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": false,
 	"trim_trailing_white_space_on_save": true,
