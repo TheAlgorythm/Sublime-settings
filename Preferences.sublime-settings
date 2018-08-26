@@ -26,7 +26,7 @@
 	"match_tags": false,
 	"overlay_scroll_bars": "enabled",
 	"show_definitions": false,
-	"show_encoding": false,
+	"show_encoding": true,
 	"show_line_endings": true,
 	"sidebar_toggle_auto_hide": true,
 	"sidebar_toggle_on_click": true,
